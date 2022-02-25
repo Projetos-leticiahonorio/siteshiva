@@ -1,6 +1,23 @@
 .fundo_nave{
 
-    color: aquamarine;
+    background-color: #3CB371;
+}
+
+.paragrafo{
+	color: #000000;
+	font-family: Trebuchet MS, sans-serif;
+}
+
+.fundo{
+	background-color: #2E8B57;
+}
+
+.cont{
+	background-color: #3CB371;
+}
+
+.texto{
+	color: #000000;
 }
 
 .menu{
@@ -23,8 +40,17 @@
     margin-top: 30px;
     margin: 15px;
     text-align: center;
+    color: #000000;
+    font-family: Bradley Hand, cursive;
 }
 
 .deusa{
     width: 100%;
 }
+
+.ispace{
+	margin-top: 50%;
+	margin: 25px;
+	margin-bottom: 25px;
+}
+
